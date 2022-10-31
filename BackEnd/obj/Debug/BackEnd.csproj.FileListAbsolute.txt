@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Desktop\c#_Profe\LaListaDelSuper\LaListaDelSuper\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\USUARIO\Desktop\c#_Profe\LaListaDelSuper\LaListaDelSuper\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\USUARIO\Desktop\c#_Profe\LaListaDelSuper\LaListaDelSuper\BackEnd\obj\Debug\BackEnd.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\c#_Profe\LaListaDelSuper\LaListaDelSuper\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\c#_Profe\LaListaDelSuper\LaListaDelSuper\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\USUARIO\Desktop\c#_Profe\LaListaDelSuper\LaListaDelSuper\BackEnd\obj\Debug\BackEnd.pdb
+C:\Users\USUARIO\Desktop\LaListaDelSuper\LaListaDelSuper\BackEnd\bin\Debug\BackEnd.dll
+C:\Users\USUARIO\Desktop\LaListaDelSuper\LaListaDelSuper\BackEnd\bin\Debug\BackEnd.pdb
+C:\Users\USUARIO\Desktop\LaListaDelSuper\LaListaDelSuper\BackEnd\obj\Debug\BackEnd.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\LaListaDelSuper\LaListaDelSuper\BackEnd\obj\Debug\BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\LaListaDelSuper\LaListaDelSuper\BackEnd\obj\Debug\BackEnd.dll
+C:\Users\USUARIO\Desktop\LaListaDelSuper\LaListaDelSuper\BackEnd\obj\Debug\BackEnd.pdb
